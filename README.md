@@ -64,8 +64,7 @@ I’m open to **internships**, **collaborations**, and impactful **data projects
 
 ## 📫 **Contact Me**
 
-- 📧 **Email:** armanmogal57@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/armanmogal999  
+- 📧 **Email:** armanmogal57@gmail.com   
 - 📍 **Location:** Mumbai, Maharashtra, India  
 
 ---
