@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/9Pbn1pU.png" width="100%" alt="Arman Mogal - Data Analyst Banne](https://chatgpt.com/backend-api/estuary/content?id=file_000000006f847209b476c120856e5eeb&ts=490910&p=fs&cid=1&sig=716354e4766013f6fb54ecb3653b0572c081636014926f8bb5f365be1e9ff561&v=0)r](https://chatgpt.com/backend-api/estuary/content?id=file_000000006f847209b476c120856e5eeb&ts=490910&p=fs&cid=1&sig=716354e4766013f6fb54ecb3653b0572c081636014926f8bb5f365be1e9ff561&v=0)"/>
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006f847209b476c120856e5eeb&ts=490910&p=fs&cid=1&sig=716354e4766013f6fb54ecb3653b0572c081636014926f8bb5f365be1e9ff561&v=0" alt="Custom Banner" width="800"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Arman Mogal! 👋</h1>
 <h3 align="center">Data Analyst | Python | SQL | Excel | Power BI</h3>
