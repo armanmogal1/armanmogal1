@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Arman Mogal! 👋</h1>
+<p align="center">
+  <img src="https://i.imgur.com/9Pbn1pU.png" width="100%" alt="Arman Mogal - Data Analyst Banner"/>
+</p>
+
+<h1 align="center">Hi, I'm Arman Mogal! 👋</h1>
 <h3 align="center">Data Analyst | Python | SQL | Excel | Power BI</h3>
 
 <p align="center">
@@ -10,48 +14,57 @@
 ---
 
 ## 👨‍💻 **About Me**
+I am a passionate **Data Analyst** focused on converting raw data into meaningful insights that drive business decision-making.  
+I work with **Python, SQL, Excel, and Power BI** to analyze, visualize, and present data effectively.
 
-I am a passionate **Data Analyst** who loves transforming raw data into meaningful insights and helping businesses make data-driven decisions.
-
-I work with **Python, SQL, Power BI, and Excel** to clean, analyze, visualize, and present data effectively.
-
-I enjoy solving business problems through:  
+My core strengths include:  
 ✔ Data cleaning & preparation  
-✔ Exploratory data analysis (EDA)  
-✔ Visualization & storytelling  
-✔ KPI dashboards  
-✔ Data modelling & automation  
+✔ Exploratory Data Analysis (EDA)  
+✔ Dashboard creation  
+✔ Data-driven storytelling  
 
-I am continuously learning advanced analytics concepts and working on real-world projects to improve my skills.
-
-I am open to internships where I can apply analytical thinking to real-world challenges.
+I’m open to **internships**, **collaborations**, and impactful **data projects**.
 
 ---
 
-## 🛠️ **Skills & Tools**
+## 🛠️ **Skills**
 
-### 🔹 **Programming & Databases**
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
-- SQL (MySQL, PostgreSQL)
+### 🔹 **Programming & Analytics**
+
+<p float="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+</p>
+
+### 🔹 **Databases**
+
+<p float="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### 🔹 **Business Intelligence**
-- Power BI (DAX, Power Query)  
-- Excel (Pivot Tables, VLOOKUP, Dashboarding, Advanced Formulas)
 
-### 🔹 **Data Analytics & Workflow**
-- Data Cleaning & Wrangling  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis  
-- ETL Processes  
-- Feature Engineering  
-- Dashboard Development
+<p float="left">
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ### 🔹 **Tools**
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code
 
-## 📫 **Get in Touch**
+<p float="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📫 **Contact Me**
 
 - 📧 **Email:** armanmogal57@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/armanmogal999  
@@ -59,8 +72,9 @@ I am open to internships where I can apply analytical thinking to real-world cha
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
-<p align="center">Feel free to star ⭐ my repositories or connect with me on LinkedIn!</p>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">Feel free to ⭐ star my repositories or connect with me on LinkedIn.</p>
+
 
 
 <!--
