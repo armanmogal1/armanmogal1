@@ -1,4 +1,5 @@
-![Custom Banner](https://chatgpt.com/backend-api/estuary/content?id=file_000000006f847209b476c120856e5eeb&ts=490910&p=fs&cid=1&sig=716354e4766013f6fb54ecb3653b0572c081636014926f8bb5f365be1e9ff561&v=0)
+![Custom Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+
 
 
 
